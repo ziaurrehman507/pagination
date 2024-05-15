@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.video{height:250px;width:300px}.m{align-items:center;display:flex;height:100vh;justify-content:center}.circle{animation:a .5s linear infinite;border:10px solid gray;border-radius:50%;border-top-color:blue;height:100px;width:100px}@keyframes a{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.3f0a27ba.css.map*/
